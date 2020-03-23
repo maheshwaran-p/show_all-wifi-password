@@ -1,0 +1,4 @@
+# show_all-wifi-password
+To ignore excution time error  :
+       type in your administrator ise pannel,
+                                "ExecutionPolicy Remotesigned" and "ExecutionPolicy unrestricted"
